@@ -8,7 +8,8 @@ The average of performance using sorting is 52956. The average of performance us
 ## 1-rank and 1-core
 The experiments are averaged on 3 repeats. They used 4 ranks and 4 cores. The first three are the version using sorting. The later three used priority queue reduction and no sorting.
 
-![image](https://github.com/ChengjunXi/Spark_KNN/assets/93487110/a34a4a74-882b-4d04-b325-7bb27d9c6195)
+![image](https://github.com/ChengjunXi/Spark_KNN/assets/93487110/63460466-70ec-4d58-acc6-8767514d2298)
+
 
 ![image](https://github.com/ChengjunXi/Spark_KNN/assets/93487110/60c43857-816b-45b6-b866-1799fbf239fc)
 
